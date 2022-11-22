@@ -1,7 +1,6 @@
 aaaaaaaaaa
 
 
-<<<<<<< HEAD
 bbbbbbbbbb
 eeeee
 
